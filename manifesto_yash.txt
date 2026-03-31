@@ -1,0 +1,7 @@
+
+Open Source Manifesto — 31 March 2026
+
+I believe in the power of open-source software.
+Using tools like firefox, I experience true open development of the software in technology.
+I aim to contribute by building firefox extension and sharing it freely with the world.
+Knowledge should be accessible, collaborative, and transparent.
